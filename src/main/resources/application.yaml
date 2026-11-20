@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: beneficiarios-api
+  profiles:
+    active: dev
